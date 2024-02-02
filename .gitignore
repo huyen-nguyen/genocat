@@ -4,3 +4,6 @@ _site
 scholar_data.txt
 .DS_Store
 node_modules
+.idea/
+assets/.DS_Store
+.jekyll-cache
